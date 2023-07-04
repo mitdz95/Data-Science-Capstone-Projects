@@ -1,1 +1,1 @@
-London Housing Case Study
+Capstone projects from SpringBoard Data Science Career Track
